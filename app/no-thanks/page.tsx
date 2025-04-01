@@ -255,7 +255,7 @@ export default function NoThanks() {
               </Link>
               
               <a
-                href="https://sign.build"
+                href="https://sign.global/orange-dynasty"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="button-secondary py-3 px-6 rounded-full font-bold text-lg shadow-md hover:shadow-lg transition-all duration-300 flex justify-center items-center gap-2 bg-white text-[var(--orange-dark)] border-2 border-[var(--orange-primary)] hover:bg-[var(--cream)]"

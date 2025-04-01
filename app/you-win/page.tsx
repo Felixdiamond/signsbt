@@ -223,7 +223,6 @@ export default function YouWin() {
             
             <div className="handwritten text-base sm:text-lg md:text-xl mt-4 sm:mt-6 flex flex-col gap-2 relative z-10">
               <p className="transform -rotate-2 animate-float-opposite-slow inline-block text-[var(--orange-dark)] font-bold px-2 py-1 bg-[var(--cream)]/80 rounded-lg shadow-sm">Your persistence paid off!</p>
-              <p className="transform rotate-1 mt-2 animate-float-med inline-block text-[var(--orange-dark)] font-bold px-2 py-1 bg-[var(--cream)]/80 rounded-lg shadow-sm">Now go claim your SBT!</p>
             </div>
             
             <div className="mt-6 sm:mt-8 md:mt-10 flex flex-wrap gap-3 sm:gap-4 md:gap-6 justify-center">
